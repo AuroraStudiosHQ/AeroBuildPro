@@ -59,9 +59,14 @@ AeroBuildPro belongs to the product line:
 3. Create first UI screens  
 4. Implement measurement logic  
 5. Field testing with real craftsmen  
-6. Polish & release  
+6. Polish & release
 
-## 📂 Project Structure
+---
+
+## 🔗 Related Repositories
+
+- 🛠️ AeroBuildSuite (product line): https://github.com/AuroraStudiosHQ/AeroBuildSuite  
+- 🌌 AuroraStudiosHQ (main studio): https://github.com/AuroraStudiosHQ  
 
 © AuroraStudiosHQ – AeroBuildPro# AeroBuildPro
 Professional construction tool for craftsmen – part of the AeroBuildSuite product line under AuroraStudiosHQ.
