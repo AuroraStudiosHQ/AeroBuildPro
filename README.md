@@ -65,3 +65,6 @@ AeroBuildPro belongs to the product line:
 
 © AuroraStudiosHQ – AeroBuildPro# AeroBuildPro
 Professional construction tool for craftsmen – part of the AeroBuildSuite product line under AuroraStudiosHQ.
+---
+
+## 📂 Project Structure
